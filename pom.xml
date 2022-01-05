@@ -159,7 +159,7 @@
         <wsdl4j.version>1.6.3</wsdl4j.version>
 
         <!-- Picocli -->
-        <picocli.version>4.6.1</picocli.version>
+        <picocli.version>4.6.2</picocli.version>
 
         <!-- Confluent API / client -->
         <confluent.version>6.1.1</confluent.version>
